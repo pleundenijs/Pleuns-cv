@@ -49,3 +49,12 @@ body {
 	height: 1em;
 	flex-basis: 1.4em;
 }
+
+
+
+.playfair-display-pleunsfont {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+}
